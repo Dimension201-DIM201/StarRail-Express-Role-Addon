@@ -13,4 +13,4 @@
 [![Mod ID](https://img.shields.io/badge/Mod%20ID-dim201addon-purple.svg)](#)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet.svg)](#)
 
-为StarRail Express增加更多职业
+为StarRail Express增加更多职业与修饰符
