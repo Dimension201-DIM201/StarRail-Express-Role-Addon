@@ -7,7 +7,7 @@
 # StarRail-Express-Role-Addon
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen.svg)](https://minecraft.net/)
-[![Fabric Loader](https://img.shields.io/badge/Fabric%20Loader-0.18.2+-blue.svg)](https://fabricmc.net/)
+[![Fabric Loader](https://img.shields.io/badge/Fabric%20Loader-0.17.2+-blue.svg)](https://fabricmc.net/)
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-GPLv3-yellow.svg)](LICENSE)
 [![Mod ID](https://img.shields.io/badge/Mod%20ID-dim201addon-purple.svg)](#)
