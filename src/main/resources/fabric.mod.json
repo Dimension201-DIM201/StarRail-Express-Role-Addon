@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "dim201addon",
+  "version": "${version}",
+  "name": "Dim201 Addon",
+  "description": "为 StarRailExpress 添加职业拓展",
+  "authors": ["位面201"],
+  "license": "GPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.dim201.dim201addon.Dim201Addon"
+    ],
+    "client": [
+      "com.dim201.dim201addon.client.Dim201AddonClient"
+    ],
+    "cardinal-components": [
+      "com.dim201.dim201addon.ModComponents"
+    ]
+  },
+  "mixins": [
+    "dim201addon.mixins.json"
+  ],
+  "jars": [
+    {
+      "file": "META-INF/jars/coopmod-1.0.0.jar"
+    },
+    {
+      "file": "META-INF/jars/PlayerAnimationLibFabric-1.1.6+mc.1.21.1.jar"
+    }
+  ],
+  "depends": {
+    "minecraft": "1.21.1",
+    "fabricloader": ">=0.17.2",
+    "starrailexpress": "*",
+    "wathe": "*",
+    "cardinal-components-base": "*",
+    "cardinal-components-entity": "*",
+    "coopmoves": "*",
+    "player_animation_library": "*"
+  },
+  "suggests": {
+    "ratatouille": "*",
+    "voicechat": "*"
+  },
+  "custom": {
+    "cardinal-components": [
+      "dim201addon:lone_wolf",
+      "dim201addon:teacher_zhang",
+      "dim201addon:yukari",
+      "dim201addon:reimu",
+      "dim201addon:koishi",
+      "dim201addon:whitesnake",
+      "dim201addon:adachi",
+      "dim201addon:narukami",
+      "dim201addon:emiya",
+      "dim201addon:gojo",
+      "dim201addon:legion",
+      "dim201addon:saki",
+      "dim201addon:deep_wound",
+      "dim201addon:kidnapper",
+      "dim201addon:ticket_inspector",
+      "dim201addon:devourer",
+      "dim201addon:dao_leiren",
+      "dim201addon:devourer_god",
+      "dim201addon:unlucky_bastard",
+      "dim201addon:shion",
+      "dim201addon:dismas",
+      "dim201addon:phantom_thief",
+      "dim201addon:weapon_master",
+      "dim201addon:seikibanki",
+      "dim201addon:todo_aoi",
+      "dim201addon:itadori",
+      "dim201addon:blind",
+      "dim201addon:electric_maniac",
+      "dim201addon:demon_contractor"
+    ]
+  }
+}

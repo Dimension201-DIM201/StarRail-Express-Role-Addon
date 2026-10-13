@@ -1,0 +1,47 @@
+{
+	"required": true,
+	"package": "com.dim201.dim201addon.mixin",
+	"refmap": "dim201addon.mixins.refmap.json",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"XiaoNaoPunishmentCancelMixin",
+		"TicketInspectorShopMixin",
+		"StashedPlayerNotEliminatedMixin",
+		"WindChargeHitMixin",
+		"SariraPickupMixin",
+		"MiserTeachingMixin",
+		"ShionQuestGoldMixin",
+		"ShortShotgunItemMixin",
+		"SeikibankiAttackMixin",
+		"CoopHighFiveMixin",
+		"MadmanMoodGainCancelMixin",
+		"MadmanLowSanSlowMixin",
+		"LoneWolfDroneAttackMixin",
+		"ItemCooldownsAccessor",
+		"CooldownInstanceAccessor"
+	],
+	"client": [
+		"client.AdachiFogMixin",
+		"client.DevourerGodFogMixin",
+		"client.RoleIntroduceScreenMixin",
+		"client.RoundTextRendererMixin",
+		"client.ClownpieceInventoryMixin",
+		"client.PucciInventoryMixin",
+		"client.PhantomThiefInventoryMixin",
+		"client.PucciDisguiseSkinMixin",
+		"client.RoleNameRendererMixin",
+		"client.HannibalEatenBodyMixin",
+		"client.SeikibankiKeyboardInputMixin",
+		"client.SeikibankiBodyHeadHideMixin",
+		"client.SeikibankiCameraMixin",
+		"client.SeikibankiShowBodyMixin",
+		"client.ChargedDapBlockMixin",
+		"client.CoopDapAnimBlockMixin",
+		"client.LoneWolfDroneKeyboardMixin",
+		"client.LoneWolfDroneCameraMixin",
+		"client.LoneWolfDroneShowBodyMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
