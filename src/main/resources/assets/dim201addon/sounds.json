@@ -1,0 +1,222 @@
+{
+  "van_transform_1": {
+    "sounds": [
+      {
+        "name": "dim201addon:van_transform_1",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.van_transform"
+  },
+  "van_transform_2": {
+    "sounds": [
+      {
+        "name": "dim201addon:van_transform_2",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.van_transform"
+  },
+  "van_transform_3": {
+    "sounds": [
+      {
+        "name": "dim201addon:van_transform_3",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.van_transform"
+  },
+  "van_transform_4": {
+    "sounds": [
+      {
+        "name": "dim201addon:van_transform_4",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.van_transform"
+  },
+  "serious_mode": {
+    "sounds": [
+      {
+        "name": "dim201addon:serious_mode",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.serious_mode"
+  },
+  "koishi_teleport": {
+    "sounds": [
+      {
+        "name": "dim201addon:koishi_teleport",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.koishi_teleport"
+  },
+  "adachi.death": {
+    "sounds": [
+      {
+        "name": "dim201addon:adachi/death",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dim201addon.adachi_death"
+  },
+  "adachi.skill1": {
+    "sounds": [
+      { "name": "dim201addon:adachi/skill1_1", "stream": true },
+      { "name": "dim201addon:adachi/skill1_2", "stream": true },
+      { "name": "dim201addon:adachi/skill1_3", "stream": true },
+      { "name": "dim201addon:adachi/skill1_4", "stream": true },
+      { "name": "dim201addon:adachi/skill1_5", "stream": true },
+      { "name": "dim201addon:adachi/skill1_6", "stream": true },
+      { "name": "dim201addon:adachi/skill1_7", "stream": true },
+      { "name": "dim201addon:adachi/skill1_8", "stream": true },
+      { "name": "dim201addon:adachi/skill1_9", "stream": true },
+      { "name": "dim201addon:adachi/skill1_10", "stream": true },
+      { "name": "dim201addon:adachi/skill1_11", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.adachi_skill1"
+  },
+  "adachi.skill2": {
+    "sounds": [
+      { "name": "dim201addon:adachi/skill2_1", "stream": true },
+      { "name": "dim201addon:adachi/skill2_2", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.adachi_skill2"
+  },
+  "adachi.heatriser": {
+    "sounds": [
+      { "name": "dim201addon:adachi/heatriser1", "stream": true },
+      { "name": "dim201addon:adachi/heatriser2", "stream": true },
+      { "name": "dim201addon:adachi/heatriser3", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.adachi_heatriser"
+  },
+  "narukami.skill1_normal": {
+    "sounds": [
+      { "name": "dim201addon:narukami/skill1_1", "stream": true },
+      { "name": "dim201addon:narukami/skill1_2", "stream": true },
+      { "name": "dim201addon:narukami/skill1_3", "stream": true },
+      { "name": "dim201addon:narukami/skill1_4", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.narukami_skill1"
+  },
+  "narukami.skill1_awakened": {
+    "sounds": [
+      { "name": "dim201addon:narukami/skill1_5", "stream": true },
+      { "name": "dim201addon:narukami/skill1_6", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.narukami_skill1"
+  },
+  "narukami.skill2": {
+    "sounds": [
+      { "name": "dim201addon:narukami/skill2_1", "stream": true },
+      { "name": "dim201addon:narukami/skill2_2", "stream": true },
+      { "name": "dim201addon:narukami/skill2_3", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.narukami_skill2"
+  },
+  "narukami.skill3": {
+    "sounds": [
+      { "name": "dim201addon:narukami/skill3_1", "stream": true },
+      { "name": "dim201addon:narukami/skill3_2", "stream": true },
+      { "name": "dim201addon:narukami/skill3_3", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.narukami_skill3"
+  },
+  "narukami.awaken": {
+    "sounds": [
+      { "name": "dim201addon:narukami/awaken", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.narukami_awaken"
+  },
+  "gojobuy": {
+    "sounds": [
+      { "name": "dim201addon:gojobuy", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.gojobuy"
+  },
+  "gojowin": {
+    "sounds": [
+      { "name": "dim201addon:gojowin", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.gojowin"
+  },
+  "gojodeath": {
+    "sounds": [
+      { "name": "dim201addon:gojodeath", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.gojodeath"
+  },
+  "legionskill": {
+    "sounds": [
+      { "name": "dim201addon:legionskill", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.legionskill"
+  },
+  "clown": {
+    "sounds": [
+      { "name": "dim201addon:clown", "stream": false }
+    ],
+    "subtitle": "subtitles.dim201addon.clown"
+  },
+  "dao_leiren.switch_lan": {
+    "sounds": [
+      { "name": "dim201addon:dao_leiren/switch_lan", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.dao_leiren_switch_lan"
+  },
+  "dao_leiren.switch_ran": {
+    "sounds": [
+      { "name": "dim201addon:dao_leiren/switch_ran", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.dao_leiren_switch_ran"
+  },
+  "dao_leiren.resurrect": {
+    "sounds": [
+      { "name": "dim201addon:dao_leiren/resurrect", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.dao_leiren_resurrect"
+  },
+  "devourer_god_music": {
+    "sounds": [
+      { "name": "dim201addon:devourer_god_music", "stream": true }
+    ],
+    "subtitle": "subtitles.dim201addon.devourer_god_music"
+  },
+  "laugh": {
+    "sounds": [
+      { "name": "dim201addon:laugh/laugh1" },
+      { "name": "dim201addon:laugh/laugh2" },
+      { "name": "dim201addon:laugh/laugh3" },
+      { "name": "dim201addon:laugh/laugh4" },
+      { "name": "dim201addon:laugh/laugh5" },
+      { "name": "dim201addon:laugh/laugh6" },
+      { "name": "dim201addon:laugh/laugh7" },
+      { "name": "dim201addon:laugh/laugh8" },
+      { "name": "dim201addon:laugh/laugh9" }
+    ],
+    "subtitle": "subtitles.dim201addon.laugh"
+  },
+  "sydeath": {
+    "sounds": [
+      { "name": "dim201addon:shuangyue/sydeath" }
+    ],
+    "subtitle": "subtitles.dim201addon.shuangyue_death"
+  },
+  "electricmaniac.shock": {
+    "sounds": [
+      { "name": "dim201addon:electricmaniac/hehehe1" },
+      { "name": "dim201addon:electricmaniac/hehehe2" },
+      { "name": "dim201addon:electricmaniac/hehehe3" },
+      { "name": "dim201addon:electricmaniac/hehehe4" }
+    ],
+    "subtitle": "subtitles.dim201addon.electric_shock"
+  },
+  "lonewolf": {
+    "sounds": [
+      { "name": "dim201addon:lonewolf", "stream": true }
+    ]
+  }
+}
