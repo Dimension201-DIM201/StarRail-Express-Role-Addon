@@ -13,7 +13,7 @@
 [![Mod ID](https://img.shields.io/badge/Mod%20ID-dim201addon-purple.svg)](#)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet.svg)](#)
 
-为StarRail Express添加35个特色职业与3个修饰符
+为StarRail Express添加36个特色职业与3个修饰符
 | 阵营 | 数量 | 角色 |
 |---|---|---|
 | 平民 | 8 | 补票员、疯子、吞噬者、倒霉蛋、赤蛮奇、东堂葵、盲人、恶魔契约者 |
