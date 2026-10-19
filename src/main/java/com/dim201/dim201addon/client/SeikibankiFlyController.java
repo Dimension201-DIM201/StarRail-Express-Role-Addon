@@ -66,8 +66,9 @@ public final class SeikibankiFlyController {
             if (client.options.keyShift.isDown()) bits |= SeikibankiFlyInputC2SPacket.BIT_DOWN;
 
             ClientPlayNetworking.send(new SeikibankiFlyInputC2SPacket(bits, yaw, pitch));
-        } else if (client.getCameraEntity() != client.player) {
-            // 技能结束/头颅失效：相机绑回本体
+        } else if (client.getCameraEntity() instanceof SeikibankiHeadEntity) {
+            // 技能结束/头颅失效：只有当前相机是头颅时才绑回本体，
+            // 避免覆盖独狼无人机等其他角色的相机绑定
             client.setCameraEntity(client.player);
         }
     }

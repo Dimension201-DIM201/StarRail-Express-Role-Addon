@@ -111,8 +111,9 @@ public final class LoneWolfDroneController {
                     bits, yaw, pitch, false,
                     droneEntity.getX(), droneEntity.getY(), droneEntity.getZ()));
         } else {
-            // 非操控状态：相机绑回本体
-            if (client.getCameraEntity() != client.player) {
+            // 非操控状态：只有当前相机是无人机时才绑回本体，
+            // 避免覆盖赤蛮奇飞头等其他角色的相机绑定
+            if (client.getCameraEntity() instanceof LoneWolfDroneEntity) {
                 client.setCameraEntity(client.player);
             }
         }
