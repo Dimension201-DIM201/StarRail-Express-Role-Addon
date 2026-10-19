@@ -283,7 +283,7 @@
   "announcement.star.role.electric_maniac": "电击狂人",
   "announcement.star.goals.electric_maniac": "让所有人感受电击疗法的恐惧！",
   "subtitles.dim201addon.electric_shock": "电击狂人：嘿嘿嘿……",
-  "info.screen.roleid.electric_maniac": "杀手阵营\n\n能力 · 静电：\n· 右键方块使其附着静电（最多 16 个，持续 30 秒），方块在你的视野中高亮\n· 玩家靠近静电方块 3 格内会被附着静电（15 秒）\n· 两个静电玩家距离小于 3 格时触发触电：尖叫、减少 20 点理智值、全图高亮 5 秒\n· 电击狂人自身不会被静电方块影响\n\n技能 1 · 静电充能（5 秒冷却）：按技能键使自身获得静电 8 秒\n技能 2 · 静电爆炸（30 秒冷却）：按技能切换键切换。先定身 2 秒，随后以自身为中心释放半径 32 格的扩散电环，球形范围内所有玩家触电\n\n杀手直觉只能透视 10 格，队友无距离限制",
+  "info.screen.roleid.electric_maniac": "杀手阵营\n\n能力 · 静电：\n· 右键方块使其附着静电（最多 16 个，持续 30 秒），方块在你的视野中高亮\n· 玩家靠近静电方块 3 格内会被附着静电（15 秒）\n· 两个静电玩家距离小于 3 格时触发触电：尖叫、减少 5 点理智值、全图高亮 5 秒\n· 电击狂人自身不会被静电方块影响\n\n技能 1 · 静电充能（5 秒冷却）：按技能键使自身获得静电 8 秒\n技能 2 · 静电爆炸（30 秒冷却）：按技能切换键切换。先定身 2 秒，随后以自身为中心释放半径 32 格的扩散电环，球形范围内所有玩家触电\n\n杀手直觉只能透视 10 格，队友无距离限制",
   "announcement.star.role.dim201addon.demon_contractor": "恶魔契约者",
   "announcement.star.role.demon_contractor": "恶魔契约者",
   "announcement.star.goals.demon_contractor": "以尸体签订契约，用代价换取力量",
