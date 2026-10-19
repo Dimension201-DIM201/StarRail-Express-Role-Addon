@@ -71,8 +71,8 @@ public final class ElectricManiacManager {
     public static final double BLOCK_AURA_RANGE = 3.0D;
     /** 静电玩家相互触发距离（格） */
     public static final double SHOCK_RANGE = 3.0D;
-    /** 触电后减少的心情值（20 san = 0.2 mood） */
-    public static final float SHOCK_MOOD_LOSS = 0.2f;
+    /** 触电后减少的心情值（5 san = 0.05 mood） */
+    public static final float SHOCK_MOOD_LOSS = 0.05f;
     /** 触电后全图高亮持续时间（tick）：5 秒 */
     public static final int SHOCK_HIGHLIGHT_TICKS = 100;
     /** 触电后定身时间（tick）：1 秒（127 级减速） */
@@ -364,7 +364,7 @@ public final class ElectricManiacManager {
         }
     }
 
-    /** 对单个玩家施加触电效果：减 20 san + 受伤动画 + 尖叫 + 定身 + 电流粒子 + 标记高亮 */
+    /** 对单个玩家施加触电效果：减 5 san + 受伤动画 + 尖叫 + 定身 + 电流粒子 + 标记高亮 */
     private static void shockTarget(ServerPlayer target) {
         long gameTime = target.getServer().overworld().getGameTime();
         highlightedPlayers.put(target.getUUID(), gameTime + SHOCK_HIGHLIGHT_TICKS);
